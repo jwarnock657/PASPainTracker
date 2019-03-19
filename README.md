@@ -11,13 +11,13 @@ as well as to give access to resources and advice on how to deal with chronic pa
 
 ## Design
 Documentation describing the general design of the app is available on the project wiki:
-1) [User Stories](http://stgit.dcs.gla.ac.uk/tp3-2018-cs17/pas-pain-tracker/wikis/userstories)
-2) [Personas & Scenarios](http://stgit.dcs.gla.ac.uk/tp3-2018-cs17/pas-pain-tracker/wikis/personas&scenarios)
-3) [Wireframes](http://stgit.dcs.gla.ac.uk/tp3-2018-cs17/pas-pain-tracker/wikis/wireframes)
+1) [User Stories](https://github.com/jwarnock657/PASPainTracker/wiki/User-Stories)
+2) [Personas & Scenarios](https://github.com/jwarnock657/PASPainTracker/wiki/Personas-&-Scenarios)
+3) [Wireframes](https://github.com/jwarnock657/PASPainTracker/wiki/Wireframes)
 
 ## Coding style
 Coding style guidelines are available on the project wiki: 
-1) [Coding Style Guidelines](http://stgit.dcs.gla.ac.uk/tp3-2018-cs17/pas-pain-tracker/wikis/codeguidelines)
+1) [Coding Style Guidelines](https://github.com/jwarnock657/PASPainTracker/wiki/Coding-Guidelines)
  
 ## Platform and IDE
 The app was developed for the [Android](https://developer.android.com/about) platform using the official Android IDE: [Android Studio](https://developer.android.com/studio).  
